@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e974d14e12c90174c90f84bac4ad297b, type: 3}
+  m_Name: FireworkCannonUse
+  m_EditorClassIdentifier: 
+  useCooldown: 0.25
+  autoUse: 1
+  damage: 20
+  projectile: {fileID: 11400000, guid: aef8a85ac1c994a48b1c5b098f088d39, type: 2}
+  shootVelocity: 50
+  shootOffset: {x: 0.5, y: 0, z: 0}
+  numProjectiles: 1
+  spread: 0
+  projectileSpawnDelay: 0
+  recoilForce: 0

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f80aa08dd8a36c4f8f6e6988cbc8eb4, type: 3}
+  m_Name: BasicHomingProjectile
+  m_EditorClassIdentifier: 
+  projectile: {fileID: -2332917749114361801, guid: 162ed7e69f29ead4e9aacc244fb7726a, type: 3}
+  duration: 1
+  damage: 1

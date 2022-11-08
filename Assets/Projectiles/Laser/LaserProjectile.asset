@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f80aa08dd8a36c4f8f6e6988cbc8eb4, type: 3}
+  m_Name: LaserProjectile
+  m_EditorClassIdentifier: 
+  projectile: {fileID: 975298423781516436, guid: 0ce7d4f385d9f914d86275082f992b41, type: 3}
+  duration: -1
+  damage: 2
+  pierce: -1
+  giveImmunityAmount: 0.05
